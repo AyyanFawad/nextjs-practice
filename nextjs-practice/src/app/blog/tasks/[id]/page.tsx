@@ -1,4 +1,4 @@
-import ToDoData from "../../../../../data/placeholderData";
+import ToDoData from "../../../data/placeholderData";
 // import { todoItem } from "../../../../../data/tododefinition";
 import ToDoTask from "../../../ui/ToDoTask";
 // import { useRouter } from "next/router";

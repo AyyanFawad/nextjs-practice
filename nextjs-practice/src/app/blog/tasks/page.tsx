@@ -1,4 +1,4 @@
-import ToDoData from "../../../../data/placeholderData";
+import ToDoData from "../../data/placeholderData";
 import ToDoTask from "@/app/ui/ToDoTask";
 
 export default function Page() {
