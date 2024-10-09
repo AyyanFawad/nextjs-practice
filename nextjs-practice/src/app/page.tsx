@@ -1,5 +1,5 @@
-import ToDoData from "../../data/placeholderData";
-import ToDoTask from "./ui/ToDoTask";
+// import ToDoData from "../../data/placeholderData";
+// import ToDoTask from "./ui/ToDoTask";
 
 export default function Page() {
   return (
